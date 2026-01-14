@@ -29,6 +29,10 @@ The project uses five normalized tables:
 
 Relationships are enforced using primary and foreign keys.
 
+### Entity Relationship Diagram (ERD)
+
+![Apple Sales ERD](erd/apple_sales_erd.png)
+
 ---
 
 ## Key Analysis & Insights
