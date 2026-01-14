@@ -31,7 +31,7 @@ Relationships are enforced using primary and foreign keys.
 
 ### Entity Relationship Diagram (ERD)
 
-![Apple Sales ERD](erd/apple_sales_erd.png)
+![Apple Sales ERD](erd/apple_erd.png)
 
 ---
 
