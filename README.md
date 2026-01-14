@@ -101,7 +101,7 @@ Implements a PL/pgSQL stored procedure to validate and update warranty repair st
 
 ## Project Structure
 
-postgres-apple-sales-analysis/
+postgres-apple-analysis/
 │
 ├── schema.sql
 ├── queries.sql
@@ -117,6 +117,10 @@ postgres-apple-sales-analysis/
     ├── q17_yoy_sales_growth_per_store.png
     ├── q19_monthly_running_total_sales.png
     └── q20_update_warranty_status_procedure.png
+
+---
+
+
 
 ---
 
